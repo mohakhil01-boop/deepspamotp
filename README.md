@@ -11,8 +11,8 @@
 |----------|--------|
 | **Acode + Alpine Linux** | ✅ **SUPPORTED** |
 | Termux | ❌ **NOT SUPPORTED** |
-| Windows / Linux Desktop | ⚠️ Belum ditest |
-| macOS | ⚠️ Belum ditest |
+| Windows / Linux Desktop | ✅ **SUPPORTED**  |
+| macOS | ✅ **SUPPORTED**  |
 
 **PENTING:** Script ini **TIDAK SUPPORT TERMUX**. Jangan coba install di Termux — bakal error karena perbedaan environment, library, dan path. Gunakan **Acode + Alpine Linux** sebagai environment resmi.
 
