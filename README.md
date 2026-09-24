@@ -81,16 +81,16 @@ pip3 install psutil
 ### 5. Clone repo atau copy script
 
 ```sh
-git clone https://github.com/artcasds/omg-nexus.git
-cd omg-nexus
+git clone https://github.com/mohakhil01-boop/deepspamotp.git
+cd spam.py
 ```
 
-Atau copy langsung file `omg-nexus.py` ke folder kerja lo.
+Atau copy langsung file `spam.py` ke folder kerja lo.
 
 ### 6. Jalankan
 
 ```sh
-python3 omg-nexus.py
+python3 spam.py
 ```
 
 ---
